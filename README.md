@@ -5,9 +5,8 @@ ___
 --- Mugen Train ---
 <!-- Adding Blockquote --> 
 >List of main characters in the movie
-<!-- Ordered List --> 
-**Kyojuro Rengoku
- Kamado Tanjiro
- Agatsuma Zenitsu
- Hashibira Inosuke
- 
+<**!-- Ordered List --**>
+*1. Kyojuro Rengoku
+*2. Kamado Tanjiro
+*3. Agatsuma Zenitsu
+*4. Hashibira Inosuke
